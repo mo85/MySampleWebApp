@@ -1,5 +1,4 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace MyTestApp.UnitTests
 {
@@ -9,7 +8,7 @@ namespace MyTestApp.UnitTests
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(fal, false);
+            Assert.AreEqual(true, false);
         }
     }
 }
