@@ -1,5 +1,0 @@
-D:\Projects\MyTestApp\MyTestApp.UnitTests\bin\Debug\MyTestApp.UnitTests.dll
-D:\Projects\MyTestApp\MyTestApp.UnitTests\bin\Debug\MyTestApp.UnitTests.pdb
-D:\Projects\MyTestApp\MyTestApp.UnitTests\obj\Debug\MyTestApp.UnitTests.csprojResolveAssemblyReference.cache
-D:\Projects\MyTestApp\MyTestApp.UnitTests\obj\Debug\MyTestApp.UnitTests.dll
-D:\Projects\MyTestApp\MyTestApp.UnitTests\obj\Debug\MyTestApp.UnitTests.pdb
