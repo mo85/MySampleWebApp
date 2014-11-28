@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestApp", "MyTestApp\MyTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestApp.UnitTests", "MyTestApp.UnitTests\MyTestApp.UnitTests.csproj", "{0ABF457F-F66A-41D5-850C-CD4BB80314C6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testing", "Testing", "{BF1279C3-1874-443E-B9F9-ECA47C733259}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0ABF457F-F66A-41D5-850C-CD4BB80314C6} = {BF1279C3-1874-443E-B9F9-ECA47C733259}
 	EndGlobalSection
 EndGlobal
